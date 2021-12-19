@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "135157371225",
+    "project_id": "chat-application-bfd7c",
+    "storage_bucket": "chat-application-bfd7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135157371225:android:ad6aecd28d93544a617c48",
+        "android_client_info": {
+          "package_name": "com.amarmane.chatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135157371225-m32mga08f4b86ipj4kjq0ml2000j3jh0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV5ukUU8rXb02loiOBviyRmh-3uFNzqBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135157371225-m32mga08f4b86ipj4kjq0ml2000j3jh0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
